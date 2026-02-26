@@ -87,20 +87,22 @@ private static final String PASSWORD = "your_password";
 
 ###  ADD STUDENT RECORD AND VIEW STUDENT RECORD
 <p align="center">
-  <img src="assets/image1.png" width="500" />
-  <img src="assets/image2.png" width="500" />
+  <img src="assets/image1.png" width="400" />
+  <img src="assets/image2.png" width="400" />
 </p>
 
 ### UPDATE STUDENT RECORD AND DETELET STUDENT RECORD
+
 <p align="center">
-  <img src="assets/image3.png" width="500" />
-  <img src="assets/image4.png" width="500" />
+  <img src="assets/image3.png" width="400" />
+  <img src="assets/image4.png" width="400" />
 </p>
 
 ### Database Screenshot
 <p align="center">
-  <img src="assets/image5.png" width="500" />
-  <img src="assets/image6.png" width="500" />
+  <img src="assets/image5.png" width="400" />
+  <img src="assets/image6.png" width="400" />
 </p>
+
 
 
