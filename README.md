@@ -43,7 +43,7 @@ src/main/java/com/sms
 │ └── DBConnection.java
 │
 └── main
-└── Main.java
+    └── Main.java
 ```
 
 ---
@@ -103,6 +103,7 @@ private static final String PASSWORD = "your_password";
   <img src="assets/image5.png" width="400" />
   <img src="assets/image6.png" width="400" />
 </p>
+
 
 
 
